@@ -1,0 +1,19 @@
+#app-title{
+  font-weight: bold;
+  color: #403b4a;
+}
+.card{
+  margin-top: 2rem;
+  background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+  background: linear-gradient(to right, #FFFFFF, #ECE9E6); 
+  border: 2px solid #414345;
+}
+.chart{
+  margin-top: 100px;
+  width: 50%;
+}
+
+#chart-title{
+  text-decoration: underline;
+  color: #414345;
+}
